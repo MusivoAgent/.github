@@ -1,9 +1,8 @@
-# MusivoAgent
+# Musivoagent.com 🛠️
 
 ![Alt text](https://raw.githubusercontent.com/MusivoAgent/.github/refs/heads/main/profile/banner.webp)
 
 
-Website: https://musivoagent.com/
 
 Musivo-Agent offers an advanced AI-driven platform for polyphonic music generation. It allows users to create multi-track compositions from scratch or enhance their existing tracks with AI-generated accompaniment. Leveraging cutting-edge machine learning models, Musivo-Agent provides a seamless experience for musicians, producers, and developers looking to integrate music generation into their workflows. With the power of AI, we simplify the music creation process while maintaining creativity and artistic freedom.
 
